@@ -1,6 +1,6 @@
 # Katmanlı Mimari (N-Tier Architecture) Nedir
 
-Katmanlı mimari (Layered Architecture), yazılım sistemlerinin modüler bir şekilde yapılandırılmasını sağlayan bir tasarım desenidir. Yazılımın farklı işlevsel bileşenlerini birbirinden ayırarak, kodun daha anlaşılır, yeniden kullanılabilir, test edilebilir ve bakımının kolay olmasını amaçlar.
+Katmanlı mimari (N-Tier Architecture), yazılım sistemlerinin modüler bir şekilde yapılandırılmasını sağlayan bir tasarım desenidir. Yazılımın farklı işlevsel bileşenlerini birbirinden ayırarak, kodun daha anlaşılır, yeniden kullanılabilir, test edilebilir ve bakımının kolay olmasını amaçlar.
 
 Temel Kavramlar
 <br>
